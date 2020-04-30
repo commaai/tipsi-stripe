@@ -1,5 +1,5 @@
 {
-  "name": "tipsi-stripe",
+  "name": "@commaai/tipsi-stripe",
   "version": "7.5.0",
   "description": "React Native Stripe binding for iOS/Andriod platforms",
   "main": "src/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tipsi/tipsi-stripe.git"
+    "url": "git+https://github.com/commaai/tipsi-stripe.git"
   },
   "keywords": [
     "react",
